@@ -155,7 +155,7 @@ Access the app in your browser at:
 
 ## 📧 Author
 
-**Khangembam Alex D Nelson**
+**Ritik Kumar Sahu**
 
 ---
 
